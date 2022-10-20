@@ -2,4 +2,8 @@ hello hello
 
 yes it is me
 
+<<<<<<< HEAD
 Creating a new branch is quick. yoyoyo
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
